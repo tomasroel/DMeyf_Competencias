@@ -48,5 +48,5 @@ El notebook detecta que el log ya tiene las 20 evaluaciones, no vuelve a correr 
 De todos los csv que genera el notebook, la entrega final corresponde a:
 
 ```         
-ensamble/[nombre_del_archivo].csv
+ensamble/8_0_competencia1_gcp_ensamble_m12500.csv
 ```
