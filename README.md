@@ -6,7 +6,7 @@ Contenido del repositorio:
 
 | Archivo | Qué es |
 |------------------------------------|------------------------------------|
-| `_8_0_competencia1_gcp_entrega.ipynb` | Notebook único que genera el csv con ids de clients para la entrega |
+| `8_0_competencia1_gcp_entrega.ipynb` | Notebook único que genera el csv con ids de clients para la entrega |
 | `BO_log.txt` | Resultado de la Bayesian Optimization de ese mismo notebook |
 
 ## 1. Instrucciones de corrida
